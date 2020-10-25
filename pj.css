@@ -1,0 +1,41 @@
+.gn {
+	margin-left: 200px;
+	margin-top: 400px;
+	padding-left: 400px;
+	padding-top: 500px;
+	background: brown;
+	
+}
+.pr {
+	
+	height: 80px;
+	width: 315px;
+	background: #274d25;
+	color: white;
+	padding-left: 250;
+	font-size: 20px;
+}
+.kl {
+	background: white;
+	color: black;
+	height: 75px;
+	width: 75px;
+}
+.lo {
+	background: #bf892c;
+	color: black;
+	height: 75px;
+	width: 75px;
+
+}
+.fy {
+height: 60px;
+	width: 315px;
+	background: #807d78;
+	color: white;
+	font-size: 20px;
+}
+.iuytr{
+  margin-left: 500px;
+  margin-top: 30px;
+}
