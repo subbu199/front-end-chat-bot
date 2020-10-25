@@ -1,4 +1,4 @@
-# front-end-chat-bot
+# FAMOUS THINGS BOT
 
 # TEAM:
 19PA1A0484-SUBBA RAMI REDDY
