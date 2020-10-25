@@ -1,0 +1,31 @@
+#hello{
+  font-size: 20px;
+  color:whitesmoke;
+  background-image: url(cfdrty.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-top: 20px;
+  margin-top: 10px;
+}
+#fname{
+  margin-left: 30px;
+  margin-bottom:40px;
+  width:300px;
+  height:40px;
+  border: solid;
+
+}
+#content{
+  font-size: 15px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  padding-left: 40px;
+  background: lavenderblush;
+  margin-top: 10px;
+
+}
+.oppo{
+  font-size: 20px;
+  margin-left: 300px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: white;
+}
